@@ -149,6 +149,3 @@ export default Calculator;
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
-
-## RESULT
-The program for developing a simple calculator in React.js is executed successfully.
